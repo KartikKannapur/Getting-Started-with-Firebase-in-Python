@@ -1,1 +1,1 @@
-# Getting-Started-with-Firebase
+# Getting-Started-with-Firebase-and-Ionic
